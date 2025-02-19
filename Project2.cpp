@@ -31,7 +31,7 @@ int main()
 	double average = (rate * worked);
 	cout << fixed << setprecision(3);
 	cout << "Gross Pay:" << average << endl;
+	
 
-
-
+	//joe mama
 }
